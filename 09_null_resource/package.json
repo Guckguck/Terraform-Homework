@@ -1,0 +1,15 @@
+{
+  "name": "09_null_resource",
+  "version": "1.0.0",
+  "description": "shell script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet-cli": "^0.1.1",
+    "lolcatjs": "^2.4.3"
+  }
+}
